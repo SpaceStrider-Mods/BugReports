@@ -1,4 +1,4 @@
-![banner](https://github.com/SpaceStrider-Mods/BugReports/blob/main/c2bc0295-5c42-49df-8c47-8a3f9feb20db.png?raw=true)
+![banner](https://github.com/SpaceStrider-Mods/BugReports/blob/main/image.png?raw=true)
 
 # Bug Reports for SpaceStrider Mods
 
