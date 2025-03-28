@@ -1,3 +1,5 @@
+![banner](https://github.com/SpaceStrider-Mods/BugReports/blob/main/c2bc0295-5c42-49df-8c47-8a3f9feb20db.png?raw=true)
+
 # Bug Reports for SpaceStrider Mods
 
 Welcome to the Bug Reports repository for SpaceStrider's mods. This repository is dedicated to tracking and managing bug reports for all of my Arma Reforger mods.
